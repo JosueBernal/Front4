@@ -1,0 +1,95 @@
+*{
+  border: 1px solid: red;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body {
+  background-color: red;
+}
+
+html {
+  font-size: 30px;
+  font-family: Anton;
+}
+
+li {
+  color: white;
+}
+ p  {
+   color: white;
+   font-size: 50%;
+ }
+
+h1 {
+  text-align: center;
+  border: 3px solid black;
+  display: inline-block;
+  font-family: Anton;
+  margin: 20px;
+  padding: 5px;
+  color: black;
+
+}
+
+img {
+  width: 400px;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+.autos {
+  font-size: 20px;
+  font-family: Anton;
+}
+
+.HipHop {
+  font-size: 20px;
+  font-family: Anton;
+}
+
+.Compu {
+  font-size: 20px;
+  font-family: Anton;
+}
+
+.Texto {
+  font-size: 50px;
+  font-family: Anton;
+  padding: 20%;
+}
+
+.autos:hover {
+  color: red;
+  cursor:cell;
+}
+
+.HipHop:hover {
+  color: red;
+  cursor:cell;
+}
+
+.Compu:hover {
+  color: red;
+  cursor:cell;
+}
+
+.numero1 {
+  background-color:black;
+  display: inline-block;
+  margin: 3%;
+  padding: 2%;
+}
+
+.title {
+  text-align: center;
+}
+
+.descripcion {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 50px;
+  width: 60px;
+  display: inline-block;
+  vertical-align: top;
+}
