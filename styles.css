@@ -1,3 +1,7 @@
+body{
+  background-color: gray
+;
+}
  img {
  width:250px;
  display:inline-block;
@@ -6,13 +10,14 @@
 }
 
 .descripcion {
- color:green;
  font-family: sans-serif;
  text-align:center;
  margin:50px;
  width:60%;
  display:inline-block;
  vertical-align:top;
+ color:black;
+ font-size: 30px;
 }
 
 .titulos {
@@ -28,13 +33,6 @@
  width:50%;
 }
 
-.descripcion {
- color:black;
- font-family: sans-serif;
- text-align:center;
- font-size: 30px;
-}
-
 .article {
  display:inline-block;
  width:70%;
@@ -43,7 +41,7 @@
 
 .titulos h1 {
  font-size: 100px;
- color: white;
+ color: black;
 }
 
 .titulos h2 {
