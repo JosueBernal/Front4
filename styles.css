@@ -1,6 +1,5 @@
 body{
-  background-color: gray
-;
+  background-image: url(https://st2.depositphotos.com/1002075/10394/v/950/depositphotos_103945814-stock-illustration-abstract-geometrical-3d-background-can.jpg);
 }
  img {
  width:250px;
@@ -16,21 +15,15 @@ body{
  width:60%;
  display:inline-block;
  vertical-align:top;
- color:black;
+ color:white;
  font-size: 30px;
 }
 
 .titulos {
  text-align:center;
  margin:30px;
- border:5px solid black;
+ border:5px solid white;
  padding:0px;
-}
-
-.links {
- color:blue;
- display:inline-block;
- width:50%;
 }
 
 .article {
@@ -41,12 +34,12 @@ body{
 
 .titulos h1 {
  font-size: 100px;
- color: black;
+ color: white;
 }
 
 .titulos h2 {
  font-size: 60px;
- color: black;
+ color: white;
 }
 
 .LogoFace {
@@ -61,3 +54,13 @@ body{
  display: inline-block;
  vertical-align:
 }
+
+.RS {
+ color:red;
+ font-family: sans-serif;
+ text-align: center;
+ margin: 30px;
+ border: 2px solid white;
+ display: inline-block;
+ width: 12%;
+ padding: 5px;
